@@ -8,7 +8,7 @@ SecureVault is a robust and efficient project aimed at providing top-tier encryp
 ## 
 
 ### Features
-<div>
+<div align="justify">
   <ul>
     <li><b>Advanced Encryption Algorithms: </b>Utilizes state-of-the-art encryption algorithms to secure data.</li>
     <li><b>Data Integrity: </b>Ensures that stored data remains intact and unaltered through hashing and integrity checks.</li>
