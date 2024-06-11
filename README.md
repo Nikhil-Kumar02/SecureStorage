@@ -19,6 +19,8 @@ SecureVault is a robust and efficient project aimed at providing top-tier encryp
   </ul>
 </div>
 
+##
+
 ### Usage
 <div align="justify">
 Once the application is running, users can encrypt and decrypt their files using the provided interface. The system ensures that all data stored is encrypted and protected from unauthorized access.
