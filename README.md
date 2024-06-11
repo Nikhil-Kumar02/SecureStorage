@@ -1,7 +1,7 @@
 # SecureStorage
 
 ### Overview
-<div class="justify">
+<div text-align="justify">
 SecureVault is a robust and efficient project aimed at providing top-tier encryption for storage data. With the increasing importance of data security, SecureVault ensures that your sensitive information remains protected from unauthorized access and breaches. This project leverages advanced encryption algorithms to safeguard data at rest, making it ideal for various applications including personal data protection, enterprise security, and compliance with data privacy regulations.
 </div>
 
