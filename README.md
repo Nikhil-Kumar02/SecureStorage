@@ -10,10 +10,12 @@ SecureVault is a robust and efficient project aimed at providing top-tier encryp
 
 ### Features
 <ul>
-  <li><b>Advanced Encryption Algorithms:</b>Utilizes state-of-the-art encryption algorithms to secure data.</li>
+  <li><b>Advanced Encryption Algorithms: </b>Utilizes state-of-the-art encryption algorithms to secure data.</li>
+  <li><b>Data Integrity: </b>Ensures that stored data remains intact and unaltered through hashing and integrity checks.</li>
+  <li><b></b></li>
 </ul>
  
-Data Integrity: Ensures that stored data remains intact and unaltered through hashing and integrity checks.
+
 User-Friendly Interface: Intuitive interface for encrypting and decrypting files, making it easy for users of all levels.
 Automated Processes: Supports automated encryption and decryption workflows for seamless integration into existing systems.
 Cross-Platform Compatibility: Works across various operating systems, including Windows, macOS, and Linux.
